@@ -61,6 +61,6 @@ All copy lives in `index.html` and `privacy.html`. Easy to find with Ctrl+F. The
 
 ## Notes
 
-- The "Install on Shopify" links currently point to `https://apps.shopify.com/` (placeholder). Replace with the actual app listing URL once published.
+- "Install on Shopify" links point to `https://apps.shopify.com/askwell`.
 - The contact email is `support@tambourineai.com`. Swap it for a support@ alias whenever you set one up.
 - Social/OG image is `logo.png`. Consider a wider 1200×630 OG card later for nicer Twitter/LinkedIn previews.
